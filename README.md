@@ -20,4 +20,4 @@ Tests are done with Mocha and Chai. Run the following command to launch them.
 npm test
 ```
 
-### All configurations (port, data url ...) is located in `config.js`
+### All configuration variables (port, data url ...) are located in `config.js`
